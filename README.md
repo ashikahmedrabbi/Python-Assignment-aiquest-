@@ -39,10 +39,10 @@ Open any .py file in your code editor.
 
 ## Run using:
 
-- python filename.py
+ `python filename.py`
 
 ## 👨‍💻 Author
 Md.Kazi Ashik Ahmed
 
-
+##
 Happy Coding! 🚀
